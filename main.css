@@ -1,0 +1,30 @@
+.logo{
+
+    width: 171px;
+
+}
+
+.logo img {
+    width: 100%;
+}
+.basliq{
+    display: flex;
+    background-color: #95afc0;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.fa-house:hover{
+    transform: rotate(360deg);
+    transition: 8s ease;
+}
+.fa-solid{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+
+}
+.fa-house{
+    font-size: 44px;
+    color: rgb(64, 12, 255);
+}
